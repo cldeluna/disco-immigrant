@@ -1,7 +1,7 @@
 ## NetDevOps
 #### 2019-11-22 claudia@indigowire.net
 
-## UbuntuDisco Dingo Ansible Ansible 2.9 "Immigrant Song" Dockerfile
+## Ubuntu Disco Dingo Ansible Ansible 2.9 "Immigrant Song" Dockerfile
  - [Latest Ubuntu 19.04 (Disco Dingo)](https://wiki.ubuntu.com/DiscoDingo/ReleaseNotes)
  
  	[Ubuntu Releases](https://wiki.ubuntu.com/Releases)

@@ -85,6 +85,8 @@ Claudias-iMac:disco-immigrant claudia$ docker run -v  /Users/claudia/Documents/d
 
 ## Docker Hub
 
+[Download Docker Image *disco-immigrant* from Docker Hub](https://hub.docker.com/r/cldeluna/disco-immigrant ) and get started with Ansible and python!
+
 ```
 Claudias-iMac:disco-immigrant claudia$ docker login
 Claudias-iMac:disco-immigrant claudia$ docker tag cldeluna/disco-immigrant:latest cldeluna/disco-immigrant:latest

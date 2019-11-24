@@ -54,9 +54,17 @@ Python Modules:
 - xlrd
 
 Repositories:
-- https://github.com/cldeluna/ansible2_4_base.git
+- https://github.com/cldeluna/ansible2_4_base.git (Legacy)
 - https://github.com/cldeluna/cisco_aci.git
 - https://github.com/cldeluna/cisco_ios.git
+
+
+
+## Getting Started with the Docker Container
+
+A few tips to get you started quickly with the Docker container.
+
+[Using Docker Cheatsheet](https://github.com/cldeluna/cosmic-heartbreaker/blob/master/UsingDocker_Cheatsheet.md)
 
 
 ## Build

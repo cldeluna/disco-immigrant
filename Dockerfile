@@ -6,8 +6,8 @@
 # https://launchpad.net/~ansible/+archive/ubuntu/ansible
 # https://github.com/ansible/ansible/blob/stable-2.9/changelogs/CHANGELOG-v2.9.rst#id1
 # cat /etc/issue
+# apt-cache show ansible
 # Disco Immigrant
-
 
 FROM ubuntu:19.04
 
@@ -82,5 +82,6 @@ RUN git clone https://github.com/cldeluna/cisco_ios.git
 
 RUN git config --global user.name "Disco Immigrant"
 RUN git config --global user.email "disco@immigrant.com"
+
 
 
